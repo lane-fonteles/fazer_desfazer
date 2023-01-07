@@ -1,5 +1,17 @@
-# fazer_desfazer
+# Fazer Desfazer
+
 <img src="/fazer_desfazer.png">
+
+## Finalidade da Aplicação:
+* O usuário pode clicar em qualquer lugar da página
+* É redenrizado um pequeno círculo na posição clicada
+* A cada clique mantém-se os círculos já criados e renderiza-se um novo
+* Duas funções existentes a Fazer e a Desfazer
+
+
+## Tecnologias usadas:
+* REACT JS
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
